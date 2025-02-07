@@ -53,12 +53,3 @@ npm run dev
 ```
 
 Open your browser and visit [http://localhost:3000](http://localhost:3000) to access Ecommerce Admin Dashboard.
-
-## Contribution
-
-We welcome contributions from the community. If you'd like to contribute to Ecommerce Admin Dashboard, please follow these general guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes, ensuring clear code and comments.
-4. Submit a pull request, describing your changes in detail.
