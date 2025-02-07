@@ -62,7 +62,3 @@ We welcome contributions from the community. If you'd like to contribute to Ecom
 2. Create a new branch for your feature or bug fix.
 3. Make your changes, ensuring clear code and comments.
 4. Submit a pull request, describing your changes in detail.
-
-## Contact
-
-For questions, feedback, or inquiries, feel free to reach out to us at [adewaletaiwo08@gmail.com](mailto:adewaletaiwo08@gmail.com).
